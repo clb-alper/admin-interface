@@ -29,4 +29,14 @@ router.get('/entries', auth, async(req,res) => {
     res.render('datatable', {entries: entries.reverse()})
 })
 
+router.post('/logout', auth, async(req,res) => {
+    try {
+        req.admin.tokens = []
+        await req.admin.save()
+        res.render('a')
+    } catch (e) {
+        res.status(500).send()
+    }
+})
+
 module.exports = router;
