@@ -1,0 +1,6 @@
+[
+    {
+      "Card_ID": "20437137100",
+      "Authorized": "Kapi acildi"
+    }
+]

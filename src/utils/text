@@ -1,0 +1,52 @@
+[
+  {
+    "Card_ID": "1791871317",
+    "Authorized": "Yetkisiz Kart"
+  }
+]
+[
+  {
+    "Card_ID": "1791871317",
+    "Authorized": "Yetkisiz Kart"
+  },
+    {
+    "Card_ID": "2222871317",
+    "Authorized": "Kapi Acildi"
+  }
+]
+[
+  {
+    "Card_ID": "1791871317",
+    "Authorized": "Yetkisiz Kart"
+  },
+    {
+    "Card_ID": "2222871317",
+    "Authorized": "Kapi Acildi"
+  },
+    {
+    "Card_ID": "22871317",
+    "Authorized": "Kapi Acildi"
+  }
+]
+[
+  {
+    "Card_ID": "1791871317",
+    "Authorized": "Yetkisiz Kart"
+  },
+    {
+    "Card_ID": "2222871317",
+    "Authorized": "Kapi Acildi"
+  },
+    {
+    "Card_ID": "22871317",
+    "Authorized": "Kapi Acildi"
+  },
+    {
+    "Card_ID": "2222871317",
+    "Authorized": "Kapi Acildi"
+  },
+    {
+    "Card_ID": "22871317",
+    "Authorized": "Kapi Acildi"
+  }
+]
